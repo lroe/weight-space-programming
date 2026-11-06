@@ -1,0 +1,8 @@
+node_modules/
+out/
+preview/
+.cache/
+.DS_Store
+*.mp4
+*.zip
+*.log
