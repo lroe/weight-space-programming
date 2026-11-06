@@ -33,7 +33,7 @@ npm run render
 
 ```bash
 npx remotion render AstraWeightSpace out/astra-weight-space-2k.mp4 \
-  --scale=1.3333333333 \
+  --scale=1.3333333333333333 \
   --concurrency=4 \
   --gl=swangle \
   --crf=18 \

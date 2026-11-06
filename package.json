@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "remotion studio",
     "render": "remotion render AstraWeightSpace out/astra-weight-space.mp4",
-    "render:2k": "remotion render AstraWeightSpace out/astra-weight-space-2k.mp4 --scale=1.3333333333 --concurrency=4 --gl=swangle --crf=18 --x264-preset=fast",
+    "render:2k": "remotion render AstraWeightSpace out/astra-weight-space-2k.mp4 --scale=1.3333333333333333 --concurrency=4 --gl=swangle --crf=18 --x264-preset=fast",
     "still": "remotion still AstraWeightSpace",
     "typecheck": "tsc --noEmit"
   },
