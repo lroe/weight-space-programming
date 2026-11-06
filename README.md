@@ -44,7 +44,9 @@ Use `--frames=0-899` for a 30-second draft, or `--scale=0.5` for a fast look.
 
 ## Google Colab
 
-Open `AstraWeightSpace_Colab.ipynb` in Colab.
+[Open the 2K render notebook in Colab](https://colab.research.google.com/github/lroe/weight-space-programming/blob/main/AstraWeightSpace_Colab.ipynb)
+
+Or open `AstraWeightSpace_Colab.ipynb` in Colab.
 
 The notebook:
 
