@@ -52,7 +52,7 @@ The notebook:
 
 1. Mounts Google Drive first.
 2. Installs Node.js, ffmpeg and Chromium libraries.
-3. Clones this repository (with a ZIP upload fallback).
+3. Loads this repository via git, then automatically falls back to the GitHub ZIP archive if cloning fails. Manual ZIP upload is the last resort.
 4. Installs dependencies and Remotion's headless browser.
 5. Renders 2560×1440 with live percentage, frame count and ETA.
 6. Verifies the MP4 and copies it to `MyDrive/WeightSpaceProgramming/`.
